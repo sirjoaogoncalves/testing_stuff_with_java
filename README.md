@@ -1,1 +1,3 @@
 # testing_stuff_with_java
+
+NOTHING TO SEE HERE! JUST SOME BASIC STUFF WITH JAVA
